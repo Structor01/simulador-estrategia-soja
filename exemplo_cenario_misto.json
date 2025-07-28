@@ -1,0 +1,20 @@
+{
+  "alavancas": {
+    "premio": {
+      "valor_atual": 1.2,
+      "cenario": "alta",
+      "variacao_percentual": 20.0
+    },
+    "tela": {
+      "valor_atual": 14.5,
+      "cenario": "baixa",
+      "variacao_percentual": 8.0
+    },
+    "dolar": {
+      "valor_atual": 5.3,
+      "cenario": "alta",
+      "variacao_percentual": 5.0
+    }
+  },
+  "historico_simulacoes": []
+}
